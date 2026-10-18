@@ -7,21 +7,23 @@
 
     <string name="resource_intl_office_name">International Students Office</string>
     <string name="resource_intl_office_category">Advising</string>
-    <string name="resource_intl_office_hours">9:00 AM - 5:00 PM</string>
-    <string name="resource_intl_office_updated">Oct 18, 2026</string>
 
     <string name="resource_library_name">Main Library</string>
     <string name="resource_library_category">Study Space</string>
-    <string name="resource_library_hours">7:00 AM - 7:00 PM</string>
-    <string name="resource_library_updated">Oct 15, 2026</string>
 
     <string name="resource_veterans_name">Veteran Resource Center</string>
     <string name="resource_veterans_category">Support Services</string>
-    <string name="resource_veterans_hours">8:00 AM - 9:00 PM</string>
-    <string name="resource_veterans_updated">Oct 10, 2026</string>
 
+    <!-- Placeholders -->
+    <string name="hours_label">Hours: %1$s - %2$s</string>
+    <string name="fee_label">Fee: %1$s</string>
     <string name="last_update_label">Last Updated: %1$s</string>
-    <string name="hours_label">Hours: %1$s</string>
+
+    <!-- Plurals -->
+    <plurals name="review_count">
+        <item quantity="one">%1$d review</item>
+        <item quantity="other">%1$d reviews</item>
+    </plurals>
 
     <!-- New section -->
     <string name="section_orientation_title">New Student Orientation</string>
